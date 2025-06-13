@@ -14,6 +14,6 @@ Generally each folder - except PKL - contains the files
 
 ## How to use
 
-After installing the required models just run `python main.py`
+After installing the required modules just run `python main.py`
 
 
