@@ -8,40 +8,68 @@ license: MIT
 authors:
   - family-names: Moustafa
     given-names: H.
+    orcid: "https://orcid.org/0009-0005-9251-5494"
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   - family-names: Kovacs
     given-names: A.
+    orcid: "https://orcid.org/0000-0002-8413-1950"
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   - family-names: Fischbacher
     given-names: J.
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   - family-names: Gusenbauer
     given-names: M.
+    orcid: "https://orcid.org/0000-0002-3540-3964"
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   - family-names: Ali
     given-names: Q.
+    orcid: "https://orcid.org/0000-0002-0870-2803"
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria; Christian Doppler Laboratory for Magnet Design through Physics-Informed Machine Learning, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   - family-names: Breth
     given-names: L.
+    orcid: "https://orcid.org/0000-0003-3371-8505"
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   - family-names: Schrefl
     given-names: T.
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria; Christian Doppler Laboratory for Magnet Design through Physics-Informed Machine Learning, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   - family-names: Oezelt
     given-names: H.
+    orcid: "https://orcid.org/0000-0002-3754-3565"
+    affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
 preferred-citation:
   type: article
   title: "Graph neural networks to predict coercivity and maximum energy product of hard magnetic microstructures"
   authors:
     - family-names: Moustafa
       given-names: H.
+      orcid: "https://orcid.org/0009-0005-9251-5494"
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
     - family-names: Kovacs
       given-names: A.
+      orcid: "https://orcid.org/0000-0002-8413-1950"
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
     - family-names: Fischbacher
       given-names: J.
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
     - family-names: Gusenbauer
       given-names: M.
+      orcid: "https://orcid.org/0000-0002-3540-3964"
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
     - family-names: Ali
       given-names: Q.
+      orcid: "https://orcid.org/0000-0002-0870-2803"
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria; Christian Doppler Laboratory for Magnet Design through Physics-Informed Machine Learning, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
     - family-names: Breth
       given-names: L.
+      orcid: "https://orcid.org/0000-0003-3371-8505"
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
     - family-names: Schrefl
       given-names: T.
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria; Christian Doppler Laboratory for Magnet Design through Physics-Informed Machine Learning, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
     - family-names: Oezelt
       given-names: H.
+      orcid: "https://orcid.org/0000-0002-3754-3565"
+      affiliation: "Department for Integrated Sensor Systems, University for Continuing Education Krems, Viktor Kaplan-Straße 2, Wiener Neustadt, 2700, Austria"
   journal: "Journal of Magnetism and Magnetic Materials"
   volume: 634
   start: 173594
