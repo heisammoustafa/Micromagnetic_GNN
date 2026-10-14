@@ -5,6 +5,7 @@ title: "Micromagnetic_GNN"
 abstract: "Code and data for training graph neural networks on micromagnetic grain structures to predict coercivity and maximum energy product (BH_max) of hard magnetic microstructures."
 repository-code: "https://github.com/heisammoustafa/Micromagnetic_GNN"
 license: MIT
+doi: "10.5281/zenodo.23360688"
 authors:
   - family-names: Moustafa
     given-names: H.

@@ -1,5 +1,7 @@
 # Micromagnetic GNN
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23360688.svg)](https://doi.org/10.5281/zenodo.23360688)
+
 This repository contains code and data for training Graph Neural Networks on micromagnetic grain structures. It contains the folders 'Coercivity_Prediction', 'BHMax_Prediction', 'Coercivity_Prediction_Uncertainty', and 'Coercivity_Prediction_OOD'. The folders 'PKL' and 'PKL_BHmax' contain the different node features and graphs, labels, edge features, extracted from micromagnetic simulations.
 
 ## Contents
@@ -31,6 +33,8 @@ This repository accompanies the paper [Graph neural networks to predict coercivi
 If you use this work, please cite:
 
 Moustafa, H., Kovacs, A., Fischbacher, J., Gusenbauer, M., Ali, Q., Breth, L., Schrefl, T., Oezelt, H. (2025). Graph neural networks to predict coercivity and maximum energy product of hard magnetic microstructures. *Journal of Magnetism and Magnetic Materials*, 634, 173594. [https://doi.org/10.1016/j.jmmm.2025.173594](https://doi.org/10.1016/j.jmmm.2025.173594)
+
+The code and data of this repository are archived on Zenodo: [https://doi.org/10.5281/zenodo.23360688](https://doi.org/10.5281/zenodo.23360688) (this DOI represents all versions and always resolves to the latest one).
 
 ```bibtex
 @article{moustafa_graph_2025,
