@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the paper below."
+type: software
+title: "Micromagnetic_GNN"
+abstract: "Code and data for training graph neural networks on micromagnetic grain structures to predict coercivity and maximum energy product (BH_max) of hard magnetic microstructures."
+repository-code: "https://github.com/heisammoustafa/Micromagnetic_GNN"
+license: MIT
+authors:
+  - family-names: Moustafa
+    given-names: H.
+  - family-names: Kovacs
+    given-names: A.
+  - family-names: Fischbacher
+    given-names: J.
+  - family-names: Gusenbauer
+    given-names: M.
+  - family-names: Ali
+    given-names: Q.
+  - family-names: Breth
+    given-names: L.
+  - family-names: Schrefl
+    given-names: T.
+  - family-names: Oezelt
+    given-names: H.
+preferred-citation:
+  type: article
+  title: "Graph neural networks to predict coercivity and maximum energy product of hard magnetic microstructures"
+  authors:
+    - family-names: Moustafa
+      given-names: H.
+    - family-names: Kovacs
+      given-names: A.
+    - family-names: Fischbacher
+      given-names: J.
+    - family-names: Gusenbauer
+      given-names: M.
+    - family-names: Ali
+      given-names: Q.
+    - family-names: Breth
+      given-names: L.
+    - family-names: Schrefl
+      given-names: T.
+    - family-names: Oezelt
+      given-names: H.
+  journal: "Journal of Magnetism and Magnetic Materials"
+  volume: 634
+  start: 173594
+  year: 2025
+  month: 11
+  issn: "0304-8853"
+  doi: "10.1016/j.jmmm.2025.173594"
+  url: "https://www.sciencedirect.com/science/article/pii/S0304885325008261"
